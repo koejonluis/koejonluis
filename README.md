@@ -1,4 +1,4 @@
-### Hi there 👋
+![github-header-image](https://user-images.githubusercontent.com/69363382/161608221-0d73d309-625a-4c59-8877-9ca675a4fdea.png)
 
 <!--
 **koejonluis/koejonluis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
